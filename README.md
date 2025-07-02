@@ -39,4 +39,4 @@ Visit http://localhost:4200 in your browser.
 
 ## Live Demo 
 
-soumya-sajjan.netlify.app
+https://soumya-sajjan.netlify.app/
